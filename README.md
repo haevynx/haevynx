@@ -32,6 +32,15 @@ Lately I've been building **developer tooling for AI coding agents** — helping
 curl -fsSL https://raw.githubusercontent.com/haevynx/aegis/main/install.sh | sh
 ```
 
+### 🌱 I'm currently learning
+
+- 🐍 **Python** for backend development — building APIs and services
+- 🟣 **.NET** — C# and ASP.NET Core for backend services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,dotnet,cs" alt="Python, .NET, C#">
+</p>
+
 ### 🛠 Tech stack
 
 <p>
